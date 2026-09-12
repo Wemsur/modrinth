@@ -464,6 +464,10 @@ body.custom-bg-active .card {
 	background-color: color-mix(in srgb, var(--surface-3) 88%, transparent);
 }
 
+body.custom-bg-active .context-menu {
+	background-color: color-mix(in srgb, var(--color-raised-bg) 88%, transparent);
+}
+
 .light-sense {
 	position: relative;
 }
